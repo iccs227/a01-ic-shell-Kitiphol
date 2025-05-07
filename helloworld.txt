@@ -1,0 +1,9 @@
+  PID TTY           TIME CMD
+ 8651 ttys002    0:00.02 login -fp kitipholk
+ 8652 ttys002    0:01.41 -zsh
+50141 ttys002    0:00.00 sleep 5
+99793 ttys004    0:00.17 /bin/zsh -il
+46774 ttys005    0:00.03 login -fp kitipholk
+46775 ttys005    0:00.36 -zsh
+51217 ttys005    0:00.01 ./icsh
+51295 ttys005    0:00.01 ps -a

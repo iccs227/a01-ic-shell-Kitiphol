@@ -1,0 +1,3 @@
+/Users/kitipholk/Desktop/myPCSA/build/CMakeFiles/icsh.dir
+/Users/kitipholk/Desktop/myPCSA/build/CMakeFiles/edit_cache.dir
+/Users/kitipholk/Desktop/myPCSA/build/CMakeFiles/rebuild_cache.dir
