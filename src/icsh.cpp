@@ -63,7 +63,7 @@
             std::string last = history.getLastCommand();
             if (last.empty())
                 continue;
-            std::cout << last << std::endl;
+            // std::cout << last << std::endl;
             setLastExitStatus(0);
             input = last;
         }
@@ -101,7 +101,6 @@
                 } catch (...) {
                     exit_code = 0;
                 }
-                exit_code = 0;
             }
             std::cout << "bye" << std::endl;
             return exit_code;
